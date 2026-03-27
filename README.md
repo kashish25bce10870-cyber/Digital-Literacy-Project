@@ -2,11 +2,11 @@
 My project of Digital Literacy is on "Phishing Attacks: Psychology Behind digital Scams"
 This emphasize on urgency of limited time abd the ongoing scams.
 # Student-Details
-Name: Kashish Hussain
-Registration Number: 25BCE10870
-Branch: Computer Science(Core)
-University: Vit Bhopal University
-Course Code: CSE0001 - Digital Literacy
+Name: Kashish Hussain  
+Registration Number: 25BCE10870  
+Branch: Computer Science(Core)  
+University: Vit Bhopal University  
+Course Code: CSE0001 - Digital Literacy  
 # Project overview
 This Repository created by me contains my project on "Phishing attacks : Psychology Behind digital scams" for CSE0001 course at Vit Bhopal University. The aim of this project is to develope awareness of digital literacy in varies social platforms. It explains what phishing is , how it works and how people can protect themselves for it.
 The project here shows five tasks that shows the skills of digital literacy required by people in this digital world .
