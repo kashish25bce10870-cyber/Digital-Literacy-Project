@@ -11,10 +11,11 @@ Course Code: CSE0001 - Digital Literacy
 This Repository created by me contains my project on "Phishing attacks : Psychology Behind digital scams" for CSE0001 course at Vit Bhopal University. The aim of this project is to develope awareness of digital literacy in varies social platforms. It explains what phishing is , how it works and how people can protect themselves for it.
 The project here shows five tasks that shows the skills of digital literacy required by people in this digital world .
 # Task 1: Digital Literacy Infographic
-In this task, I have created a infographic that shows the importance of awareness of digital literacy over the internet . An infographic is especially powerful for a topic like phishing attacks and digital scams because it turns complex ideas into quick, memorable awareness.
+In this task, I have created a infographic that shows the importance of awareness of digital literacy over the internet . An infographic is especially powerful for a topic like phishing attacks and digital scams because it turns complex ideas into quick, memorable awareness.  
 Folder: Task-1-presentation
 # Task 2: Student Digital Protfolio
-My protfolio on this topic shows both knowledge plus practical understanding .In this task i have created a protfolio on various platforms like github, linkedin and kaggle. All these platform helps people to shows their talent and skills over the internet.
+My protfolio on this topic shows both knowledge plus practical understanding .In this task i have created a protfolio on various platforms like github, linkedin and kaggle. All these platform helps people to shows their talent and skills over the internet.  
+Folder: Task-2-protfolio
 # Task 3: Coding and collaboration
 In this task i have solved my problems with the help of coding. I am also creating a googlr form link to speard awareness regarding the digital literacy practices.
 
